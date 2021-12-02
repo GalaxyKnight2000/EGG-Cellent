@@ -8,3 +8,14 @@ font-family: 'yrsa', serif;
 
 }
 
+.btn-grey{
+    border: 2px solid grey;
+    background-color: gray;
+    color: white;
+    padding:5px 20px;
+}
+
+.btn-grey:hover{
+    cursor: pointer;
+    border: 2px solid white;
+}
