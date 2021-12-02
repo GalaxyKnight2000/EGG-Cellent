@@ -7,17 +7,30 @@
 @import url("components/card.css");
 @import url("components/banner_2.css");
 
-@import url("components/style_card_Aboutus.css");
 
 
 @import url("components/photo_Aboutus.css");
 @import url("components/button_Aboutus.css");
 @import url("components/banner_Aboutus.css");
-@import url("components/photo_profile_Aboutus.css");@import url("components/title_likes.css");
+@import url("components/photo_profile_Aboutus.css");
+@import url("components/title_Likes.css");
 @import url("components/Cards_Likes.css");
 @import url("components/title_blog.css");
 @import url("components/text_blog.css");
-@import url("components/pages.css");
+
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/nav.css");
+@import url("components/card.css");
+@import url("components/cards.css");
+@import url("components/recipes.css");
+@import url("components/location.css");
+@import url("components/likes.css");
+@import url("components/account.css");
+@import url("components/panier.css");
 
 body {
   background-color: #000000;
